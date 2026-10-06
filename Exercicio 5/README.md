@@ -74,25 +74,27 @@ O evento com maior número de ocorrências é Visualização de páginas (page_v
 
 > `b)` Quantos utilizadores chegaram ao checkout, mas não concluíram a compra?
 
-Checkout:
+> `Resposta:`Checkout: 1.500
+Compras: 600
+Logo: 1.500 − 600 = 900
 
-1.500
-Compras:
-
-600
-Logo:
-
-1.500 − 600 = 900
-
-`Resposta:`900 utilizadores chegaram ao checkout, mas não concluíram a compra.
+900 utilizadores chegaram ao checkout, mas não concluíram a compra.
 
 > `c)` Qual é a taxa de conclusão do checkout?
 
-Fórmula: Compras ÷ Checkouts × 100
-
-600 ÷ 1.500 × 100 = 40%
-
-`Resposta:`
+> `Resposta:`
+Fórmula: Compras ÷ Checkouts × 100, então, 
+600 ÷ 1.500 × 100 = 40%.
 A taxa de conclusão do checkout é de 40%. Consequentemente, a taxa de abandono nesta etapa é: 100% − 40% = 60%
 
-Ou seja, 60% dos utilizadores que iniciaram o checkout não concluíram a compra.
+> `d)` Qual é a taxa de conversão de compra relativamente aos 18.500 eventos de visualização?
+
+> `Resposta:`
+600 ÷ 18.500 × 100 = 3,24%.
+A taxa de conversão de compra relativamente às visualizações é de aproximadamente 3,24%.
+
+> `e)` Que etapa parece necessitar de maior atenção?
+
+> `Resposta:` A etapa que mais chama a atenção é o checkout.
+Dos 1.500 utilizadores que iniciaram o checkout, apenas 600 concluíram a compra.
+Isso representa: 40% de conclusão, 60% de abandono e 900 utilizadores perdidos
