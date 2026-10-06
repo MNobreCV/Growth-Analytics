@@ -50,3 +50,24 @@ Google Analytics 4 — GA4| Growth & Analytics | Mauro Nobre | 2026
     * Objetivo: Aumentar o número de utilizadores que adicionam produtos ao carrinho.
     * Evento: add_to_cart
     * KPI: Taxa de adição ao carrinho.
+
+# PARTE II — MONITORIZAÇÃO DAS AÇÕES DOS UTILIZADORES
+
+> Os dados fornecidos no exercício são:
+
+| Evento | Ocorrências |
+|---|---:|
+| Visualização de páginas | 18.500 |
+| Pesquisa de produtos | 4.200 |
+| Adicionar ao carrinho | 2.400 |
+| Iniciar checkout | 1.500 |
+| Compra | 600 |
+| Newsletter | 350 |
+| Contacto | 180 |
+
+<h3>Tarefa 3</h3>
+
+> `a)` Qual é o evento com maior número de ocorrências?
+`Resposta`:
+O evento com maior número de ocorrências é Visualização de páginas (page_view), com 18.500 ocorrências.
+
