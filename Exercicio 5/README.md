@@ -68,6 +68,32 @@ Google Analytics 4 — GA4| Growth & Analytics | Mauro Nobre | 2026
 <h3>Tarefa 3</h3>
 
 > `a)` Qual é o evento com maior número de ocorrências?
+
 `Resposta`:
 O evento com maior número de ocorrências é Visualização de páginas (page_view), com 18.500 ocorrências.
 
+> `b)` Quantos utilizadores chegaram ao checkout, mas não concluíram a compra?
+
+Checkout:
+
+1.500
+Compras:
+
+600
+Logo:
+
+1.500 − 600 = 900
+
+`Resposta:`900 utilizadores chegaram ao checkout, mas não concluíram a compra.
+
+> `c)` Qual é a taxa de conclusão do checkout?
+
+Fórmula:
+
+Compras ÷ Checkouts × 100
+600 ÷ 1.500 × 100 = 40%
+
+`Resposta:`
+A taxa de conclusão do checkout é de 40%. Consequentemente, a taxa de abandono nesta etapa é: 100% − 40% = 60%
+
+Ou seja, 60% dos utilizadores que iniciaram o checkout não concluíram a compra.
