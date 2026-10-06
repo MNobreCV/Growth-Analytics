@@ -88,9 +88,8 @@ Logo:
 
 > `c)` Qual é a taxa de conclusão do checkout?
 
-Fórmula:
+Fórmula: Compras ÷ Checkouts × 100
 
-Compras ÷ Checkouts × 100
 600 ÷ 1.500 × 100 = 40%
 
 `Resposta:`
