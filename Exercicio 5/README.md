@@ -2,9 +2,9 @@
 
 <h2>Tracking, Eventos, Conversões e Análise de Desempenho</h2>
 
-Ferramenta | Formação | Participante | Ano
----------- | -------- | ------------ | ------
-Google Analytics 4 — GA4| Growth & Analytics | Mauro Nobre | 2026
+Ferramenta | Formação | Formando | Formadora | Ano
+---------- | -------- | ------------ | ------ | -----
+Google Analytics 4 — GA4| Growth & Analytics | Mauro Nobre | Cleonice Moreira| 2026
 
 # PARTE I — PLANEAMENTO DO TRACKING
 
